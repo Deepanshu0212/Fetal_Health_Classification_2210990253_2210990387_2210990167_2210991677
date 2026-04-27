@@ -1,4 +1,4 @@
-# Threshold-Tuned Gradient Boosting for Fetal Health Classification
+# Computataional Intelligence for Fetal Health Classification
 
 > Achieving **100% Pathological Recall** on Cardiotocography Data — Zero Missed Sick Cases
 
